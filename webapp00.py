@@ -6,4 +6,4 @@ import streamlit as st
 st.title("Olá, Bia, Ge e João!")
 st.header("Turma 2EI-S")
 st.subheader("Nós somos demais!!!")
-st.write(Vamos lá, pessoal!")
+st.write("Vamos lá, pessoal!")
